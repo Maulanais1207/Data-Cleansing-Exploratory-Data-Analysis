@@ -12,3 +12,4 @@ There are several ways in imputing data.
  - Data imputation with median can be done for skewness data
  - Data imputation with mode can be performed for categorical data
 
+#Exploratory Data Analysis
